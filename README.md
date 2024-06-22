@@ -1,5 +1,5 @@
 # Iris-Flower-Classification
-Iris Flower Classfication has been an infamous machine learning project for the beginners. The dataset for this project was taken from kaggle.
+Iris Flower Classfication is a popular machine learning project for the beginners. The dataset for this project was taken from kaggle.
 
 ## Overview
 
